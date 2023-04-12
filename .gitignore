@@ -1,0 +1,14 @@
+# Logs
+npm-debug.log*
+
+
+# NPM
+node_modules/
+node_modules.nosync/
+
+# Dev tools
+.DS_Store
+.vscode
+.idea
+*.swp
+*.bak
